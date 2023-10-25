@@ -1,0 +1,17 @@
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\Publisher.exe
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\Publisher.deps.json
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\Publisher.runtimeconfig.json
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\Publisher.dll
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\Publisher.pdb
+C:\AsyncRabbitMQ\Publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.csproj.AssemblyReference.cache
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.AssemblyInfoInputs.cache
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.AssemblyInfo.cs
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.csproj.CoreCompileInputs.cache
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.csproj.CopyComplete
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.dll
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\refint\Publisher.dll
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.pdb
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\Publisher.genruntimeconfig.cache
+C:\AsyncRabbitMQ\Publisher\obj\Debug\net7.0\ref\Publisher.dll
